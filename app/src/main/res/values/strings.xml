@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">uts_prak_mobile</string>
+    <string name="app_title">Tebing App</string>
+    <string name="judul">Makanan Favorit Saya</string>
+    <string name="app_description">Saya suka Mie Ayam, karena mie yang dicampur dengan kuah itu mendapatkan rasa yang sangat nikmat dan lezat.
+        Untuk keunikan nya terdapat di cara makan nya yaitu memakai sumpit</string>
+    <string name="nama_makanan">Nama Makanan: Mie Ayam</string>
+    <string name="asal_makanan">Asal Makanan: Indonesia</string>
+    <string name="harga_makanan">Harga Makanan: Rp. 13.000</string>
+    <string name="label">Tujuan Destinasi Wisata Impian</string>
+
+    <string name="judul_wisata">Destinasi Wisata Impian</string>
+    <string name="description_wisata">Ubud dikenal sebagai pusat budaya dan seni di Bali yang menawarkan ketenangan spiritual</string>
+    <string name="nama_wisata">Ubud, Bali</string>
+    <string name="keunikan_wisata">Satu-satunya tempat di dunia di mana kamu bisa melihat Naga Komodo di habitat aslinya</string>
+    <string name="label_wisata">Kembali</string>
+
+</resources>
