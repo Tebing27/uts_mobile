@@ -1,4 +1,4 @@
-**Nama: Tebing Rizky Tsaniansyah**
+**Nama: Tebing Rizky T**
 
 **NIM: 2410501080**
 
