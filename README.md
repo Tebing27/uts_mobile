@@ -1,3 +1,3 @@
-**Nama: Tebing Rizky Tsaniansyah**
-**NIM: 2410501080**
+**Nama: Tebing Rizky Tsaniansyah**[spasi][spasi]
+**NIM: 2410501080**[spasi][spasi]
 **Kelas: C**
